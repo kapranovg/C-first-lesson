@@ -1,0 +1,15 @@
+C:\Users\kapra\Desktop\GeekBrains\C# lesson 1\Example001_HeloConsole\bin\Debug\net6.0\Example001_HeloConsole.exe
+C:\Users\kapra\Desktop\GeekBrains\C# lesson 1\Example001_HeloConsole\bin\Debug\net6.0\Example001_HeloConsole.deps.json
+C:\Users\kapra\Desktop\GeekBrains\C# lesson 1\Example001_HeloConsole\bin\Debug\net6.0\Example001_HeloConsole.runtimeconfig.json
+C:\Users\kapra\Desktop\GeekBrains\C# lesson 1\Example001_HeloConsole\bin\Debug\net6.0\Example001_HeloConsole.dll
+C:\Users\kapra\Desktop\GeekBrains\C# lesson 1\Example001_HeloConsole\bin\Debug\net6.0\Example001_HeloConsole.pdb
+C:\Users\kapra\Desktop\GeekBrains\C# lesson 1\Example001_HeloConsole\obj\Debug\net6.0\Example001_HeloConsole.csproj.AssemblyReference.cache
+C:\Users\kapra\Desktop\GeekBrains\C# lesson 1\Example001_HeloConsole\obj\Debug\net6.0\Example001_HeloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kapra\Desktop\GeekBrains\C# lesson 1\Example001_HeloConsole\obj\Debug\net6.0\Example001_HeloConsole.AssemblyInfoInputs.cache
+C:\Users\kapra\Desktop\GeekBrains\C# lesson 1\Example001_HeloConsole\obj\Debug\net6.0\Example001_HeloConsole.AssemblyInfo.cs
+C:\Users\kapra\Desktop\GeekBrains\C# lesson 1\Example001_HeloConsole\obj\Debug\net6.0\Example001_HeloConsole.csproj.CoreCompileInputs.cache
+C:\Users\kapra\Desktop\GeekBrains\C# lesson 1\Example001_HeloConsole\obj\Debug\net6.0\Example001_HeloConsole.dll
+C:\Users\kapra\Desktop\GeekBrains\C# lesson 1\Example001_HeloConsole\obj\Debug\net6.0\refint\Example001_HeloConsole.dll
+C:\Users\kapra\Desktop\GeekBrains\C# lesson 1\Example001_HeloConsole\obj\Debug\net6.0\Example001_HeloConsole.pdb
+C:\Users\kapra\Desktop\GeekBrains\C# lesson 1\Example001_HeloConsole\obj\Debug\net6.0\Example001_HeloConsole.genruntimeconfig.cache
+C:\Users\kapra\Desktop\GeekBrains\C# lesson 1\Example001_HeloConsole\obj\Debug\net6.0\ref\Example001_HeloConsole.dll
